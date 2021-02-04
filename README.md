@@ -1,6 +1,7 @@
 # terra
 
-This is a dumbed down early version of an application written 95% by me. The work flow is to create an order in the left panel for satellite imagery of various types, select the parameters, then it will fetch and display all of the images on the map. Satellite layers can be modified, hidden and remove but sadly we cannot interact with the apis anymore - so a majority of the functionality is no longer there
+This is a dumbed down early version of an application written 95% by me. The work flow is to create an order in the left panel for satellite imagery of various types, select the parameters, then it will fetch and display all of the images on the map. Satellite layers can be modified, hidden and remove but sadly we cannot interact with the apis anymore - so a majority of the functionality is no longer there. You could also export/download reports with the images overlayed on the map to a pdf while also displaying the chosen parameters for the images.
+
 ### Prerequisites
 
 Before you are able to get the application running, you will need to make sure that you have [NodeJs](https://nodejs.org/en/) and [NPMJs](https://www.npmjs.com/get-npm) installed. Below are the minimum versions to run terra's frontend.
